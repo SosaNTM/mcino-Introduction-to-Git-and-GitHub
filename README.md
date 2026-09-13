@@ -40,3 +40,4 @@ Distribuito con licenza Apache 2.0. Vedi il file `LICENSE`.
 
 Typo fixed in documentation.
 Typo fixed in documentation.
+Bug fix: corrected calculation output message.
