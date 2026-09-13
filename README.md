@@ -37,3 +37,5 @@ Lo script stampa a schermo l'interesse semplice calcolato sui valori inseriti.
 
 ## Licenza
 Distribuito con licenza Apache 2.0. Vedi il file `LICENSE`.
+
+Typo fixed in documentation.
